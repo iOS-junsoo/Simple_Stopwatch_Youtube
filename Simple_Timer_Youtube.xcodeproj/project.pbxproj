@@ -24,6 +24,7 @@
 		99567DD926EEDFD2002C5156 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		99567DDC26EEDFD2002C5156 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		99567DDE26EEDFD2002C5156 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		99567DE426EEE970002C5156 /* README-Timer info.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "README-Timer info.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		99567DC426EEDFD1002C5156 = {
 			isa = PBXGroup;
 			children = (
+				99567DE426EEE970002C5156 /* README-Timer info.md */,
 				99567DCF26EEDFD1002C5156 /* Simple_Timer_Youtube */,
 				99567DCE26EEDFD1002C5156 /* Products */,
 			);
